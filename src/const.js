@@ -27,4 +27,3 @@ export const area  =
         {value:"AhemadNagar",text:"AhemadNagar"},
         {value:"NagPur",text:"NagPur"}
     ]
-
